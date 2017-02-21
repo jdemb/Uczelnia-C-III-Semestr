@@ -7,6 +7,7 @@ Jędrzej Dembowski
  4. [x] [Listy dowiązaniowe](C/aisd_zad4.c) [dokładna treść zadania 8.1](https://inf.ug.edu.pl/~zylinski/dydaktyka/AiSD/ALL_08.pdf)
  5. [x] [Drzewa wyszukiwań binarnych](C/aisd_zad6.c) [dokładna treść zadania 12.5](https://inf.ug.edu.pl/~zylinski/dydaktyka/AiSD/ALL_12.pdf)
  6. [x] [Problem Selekcji](C/aisd_zad7.cpp) [dokładna treść zadania 14.2](https://inf.ug.edu.pl/~zylinski/dydaktyka/AiSD/ALL_14.pdf)
+
 Java
 Zadanie-Najprostsza obsługa hotelu
 Napisz program, który wyświetli menu obsługujące hotel. Hotel ma 4 piętra po 5 pokoi na każdym z nich. 
