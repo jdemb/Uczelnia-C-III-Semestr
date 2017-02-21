@@ -9,9 +9,7 @@ Jędrzej Dembowski
  6. [x] [Problem Selekcji](C/aisd_zad7.cpp) [dokładna treść zadania 14.2](https://inf.ug.edu.pl/~zylinski/dydaktyka/AiSD/ALL_14.pdf)
 
 Java
-
 Zadanie-Najprostsza obsługa hotelu
-
 Napisz program, który wyświetli menu obsługujące hotel. Hotel ma 4 piętra po 5 pokoi na każdym z nich. 
 Program pozwoli użytkownikowi zając wolny pokój pod konkretne nazwisko, zwolnic pokój,sprawdzic czy podany przez uzytkownika pokoj jest aktualnie wolny, 
 sprawdzic czy gość może aktualnie wynająć k sąsiednich pokoi, wyszukac wszystkie wynajętę pokoje po nazwisku gościa i udostępnić opcję zwolnienia wszystkich tych pokoi, 
